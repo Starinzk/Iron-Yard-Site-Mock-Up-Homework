@@ -1,1 +1,2 @@
-# Iron-Yard-Site-Mock-Up-Homework
+# site_template
+Basic site template for UI Students to use for new projects
